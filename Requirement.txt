@@ -12,3 +12,4 @@ Python libraries:
 11. tensorflow
 12. tqdm
 13. xgboost
+14. statistics
