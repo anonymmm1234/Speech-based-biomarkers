@@ -1,0 +1,14 @@
+Python libraries:
+1. glob
+2. librosa
+3. matplotlib
+4. numpy
+5. os
+6. pandas
+7. parselmouth
+8. pickle
+9. seaborn
+10. sklearn
+11. tensorflow
+12. tqdm
+13. xgboost
